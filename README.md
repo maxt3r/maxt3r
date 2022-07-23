@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Max's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=254160&layout=compact&theme=dark)](https://github-readme-stackoverflow.vercel.app/?userID=254160&layout=compact&theme=dark)
+[![Max's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=254160&layout=compact&theme=dark)](https://stackoverflow.com/users/254160/max-al-farakh)
