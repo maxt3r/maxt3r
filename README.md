@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Max 👋
 
+A full-stack developer and a co-founder of [Jitbit Helpdesk](https://www.jitbit.com/helpdesk)
 <!--
 **maxt3r/maxt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Max's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=254160&layout=compact&theme=dark)](https://github-readme-stackoverflow.vercel.app/?userID=254160&layout=compact&theme=dark)
